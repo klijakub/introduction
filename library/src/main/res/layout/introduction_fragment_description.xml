@@ -9,4 +9,6 @@
     android:maxLines="4"
     android:textAppearance="?android:attr/textAppearanceMedium"
     android:textColor="@android:color/white"
-    tools:text="Description" />
+    tools:text="Description" 
+    android:autoLink="web"
+          />
